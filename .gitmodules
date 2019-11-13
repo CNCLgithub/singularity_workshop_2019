@@ -1,0 +1,3 @@
+[submodule "docker-singularity"]
+	path = docker-singularity
+	url = https://github.com/belledon/docker-singularity
